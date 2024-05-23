@@ -1,4 +1,4 @@
-EXPORT CONST PRESETS = [
+export const presets = [
   {
     name: "Water Tiles",
     holeThreshold: 0.1,
